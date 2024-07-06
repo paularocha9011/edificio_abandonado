@@ -1,0 +1,11 @@
+Model Information:
+* title:	abandon building
+* source:	https://sketchfab.com/3d-models/abandon-building-b5710eb5fb7a4c6e9d0ebe73fa72adee
+* author:	Thunder (https://sketchfab.com/thunderpwn)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "abandon building" (https://sketchfab.com/3d-models/abandon-building-b5710eb5fb7a4c6e9d0ebe73fa72adee) by Thunder (https://sketchfab.com/thunderpwn) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
